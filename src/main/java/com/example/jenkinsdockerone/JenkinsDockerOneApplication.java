@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JenkinsDockerOneApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Test one !!!");
 		SpringApplication.run(JenkinsDockerOneApplication.class, args);
 	}
 
